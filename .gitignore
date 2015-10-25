@@ -1,2 +1,6 @@
 # For Mac OS X
 .DS_Store
+
+
+# For JetBrains
+.idea
