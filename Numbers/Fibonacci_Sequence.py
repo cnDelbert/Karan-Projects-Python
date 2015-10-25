@@ -1,4 +1,4 @@
-# coding:utf-6
+# coding:utf-8
 # __author__ = 'Delbert'
 
 def FibSeq(n):
